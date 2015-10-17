@@ -23,6 +23,8 @@
     "angular": false,
     "browser": false,
     "inject": false,
-    "sinon": false
+    "sinon": false,
+    "element": false,
+    "by": false
   }
 }
